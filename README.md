@@ -59,7 +59,7 @@ Update the code to correctly handle '--A2.5---', 'result: -2.E+3end', 'hello +.7
 - `lab12.cpp` — Complete C++ solution
 - `README.md` — This file (full GAI disclosure included)
 
-**Repository is public** so TAs can grade it.
+
 
 ---
 
